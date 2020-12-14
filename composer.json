@@ -1,0 +1,17 @@
+{
+    "name": "m_j0r/travis-php",
+    "description": "Repo to make learn and trainnig how function CI/CD with github and travis-ci",
+    "require": {
+        
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas M rodrigues",
+            "email": "lukas.mr@hotmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
