@@ -1,4 +1,7 @@
 <?php
+
+Namespace Travis\Show;
+
 use PHPUnit\Framework\TestCase;
 
 class showTest extends TestCase{
